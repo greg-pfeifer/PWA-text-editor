@@ -2,7 +2,7 @@
 
 ## Description
 
-[Deployed Application Link](https://guarded-cove-12961.herokuapp.com/)
+[Deployed Application Link](https://safe-falls-62320.herokuapp.com/)
 
 [Github Repo Link](https://github.com/greg-pfeifer/PWA-text-editor)
 
